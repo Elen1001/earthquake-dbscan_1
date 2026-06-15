@@ -38,9 +38,4 @@
 * Մոդելը խմբավորում է տվյալները հարևանության շառավղի (Epsilon) և նվազագույն կետերի քանակի (Min Samples) հիման վրա:
 * Արդյունքում համակարգը բաժանում է տվյալները երեք տիպի կետերի՝ **Core** (Կենտրոնական), **Border** (Եզրային) և **Noise** (Աղմուկ/Անոմալիա):
 
-## 📦 Գործարկման Հրահանգներ
 
-1. **Ներբեռնեք (Clone) պահոցը:**
-```bash
-   git clone [https://github.com/your-username/earthquake-dbscan-clustering.git](https://github.com/your-username/earthquake-dbscan-clustering.git)
-   cd earthquake-dbscan-clustering
